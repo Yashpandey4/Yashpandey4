@@ -1,8 +1,8 @@
 # Hello there! 👋🏻
 
-I am Pratyush Pandey 🙋🏻‍♂️, an aspiring coder (Ex-Microsoft, Ex-BendingSpoons), music lover and full time Lit-Art Geek, currently pursuing my Bachelor's from IIT Delhi.
+I am Pratyush Pandey 🙋🏻‍♂️, an aspiring coder (Ex-Microsoft, Ex-BendingSpoons), music lover and full time Lit-Art Geek, currently working as a software engineer at Google. I pursued my Bachelor's from IIT Delhi.
 
-I am a Deep Learning + Blockchain Enthusiast, an avid Blogger and Writer, a Speaker, and a FullStack JavaScript Developer. Outside college, I debate and partake in Indian Classical Music.
+I am a Deep Learning + Crypto/Blockchain Enthusiast, an avid Blogger and Writer, a Speaker, and a FullStack Developer. Outside college, I debate and partake in Indian Classical Music.
 
 ## Connect with Me 🤝🏻
 
